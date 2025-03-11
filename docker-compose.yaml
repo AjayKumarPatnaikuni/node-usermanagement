@@ -21,7 +21,7 @@ services:
     environment:
       - DB_HOST=mysql-db
       - DB_USER=admin
-      - DB_PASSWORD=password
+      - DB_PASSWORD=password11
       - DB_NAME=usermanagement
     depends_on:
       - mysql
