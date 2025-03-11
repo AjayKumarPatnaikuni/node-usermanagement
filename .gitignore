@@ -1,0 +1,7 @@
+./.gitignore
+./user-management/node_modules
+./user-management/.gitignore
+./usermgmt-service/node_modules
+./usermgmt-service/.gitignore
+./usermgmt-service/.vscode/*
+./user-management/.vscode/*
