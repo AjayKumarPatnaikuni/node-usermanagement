@@ -1,0 +1,5 @@
+./.gitignore
+./.dockeignore
+./node_modules
+./README.md
+./.vscode
