@@ -2,7 +2,7 @@
 CREATE DATABASE IF NOT EXISTS usermanagement;
 
 -- Use the database
-USE my_database;
+USE usermanagement;
 
 -- Create a users table
 CREATE TABLE IF NOT EXISTS users (
