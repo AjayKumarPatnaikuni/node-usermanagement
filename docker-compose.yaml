@@ -23,6 +23,7 @@ services:
       - DB_USER=admin
       - DB_PASSWORD=password11
       - DB_NAME=usermanagement
+      - DB_PORT=3306
     depends_on:
       - mysql
 
